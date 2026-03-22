@@ -43,7 +43,3 @@ flowchart TD
     D --> D7[Code Review]
     D --> D8[Mentoring]
     D --> D9[Leadership]
-
-**© 2026 · Moe Kyaw Aung (မိုးကျော်အောင်) · Android Developer · Tachileik, Myanmar**
-
-`Kotlin` · `Jetpack Compose` · `Firebase` · `MVVM` · `Clean Architecture`
