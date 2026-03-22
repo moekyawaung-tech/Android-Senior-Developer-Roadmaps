@@ -1,5 +1,3 @@
-
-```md
 ## 🗺 Android Developer Roadmap Diagram
 
 ```mermaid
