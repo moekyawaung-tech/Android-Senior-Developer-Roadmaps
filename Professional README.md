@@ -104,8 +104,3 @@ flowchart LR
     D --> D3[Performance]
     D --> D4[Security]
     D --> D5[Leadership]
-
-**© 2026 · Moe Kyaw Aung (မိုးကျော်အောင်) · Android Developer · Tachileik, Myanmar**
-
-`Kotlin` · `Jetpack Compose` · `Firebase` · `MVVM` · `Clean Architecture`
-
