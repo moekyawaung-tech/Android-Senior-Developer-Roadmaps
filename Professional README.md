@@ -1,5 +1,3 @@
---
-```md
 <div align="center">
 
 # 🚀 Android Developer Roadmap
